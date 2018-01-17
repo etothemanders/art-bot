@@ -1,0 +1,11 @@
+html, body {
+   margin: 0;
+ }
+
+.controls {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	margin-bottom: 20px;
+}
